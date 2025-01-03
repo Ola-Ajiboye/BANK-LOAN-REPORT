@@ -7,8 +7,10 @@ The Bank Loan Report provides a comprehensive analysis to monitor and assess our
 The dataset used for this analysis was downloaded from Kaggle 
 ### TOOLS
 Microsoft Excel – Data Cleaning and Creating a report
+
 SQL Server – Data Analysis
-DATA CLEARNING 
+
+## DATA CLEARNING 
 Data Cleaning: This involved removing duplicated, fixing inconsistencies, handle missing values, standardize formats, and ensure data accuracy.
 
 ## EXPOLARATORY DATA ANALYSIS
